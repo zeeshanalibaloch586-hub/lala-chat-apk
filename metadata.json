@@ -1,0 +1,6 @@
+{
+  "name": "Lala Chat",
+  "description": "Premium real-time messaging app with AMOLED theme, emerald accents, instant chat, media sharing, presence, and privacy features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
